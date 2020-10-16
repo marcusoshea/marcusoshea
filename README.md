@@ -4,7 +4,7 @@
 
 I have two github accounts, a personal one (this one) and another one where I hack on code for ColibriGroup (https://github.com/marcusosheamckissock)
 
-Skills: Angular / .Net / Postgres / SQL / Ionic / React Native / Javascript
+Skills: TypeScript / .Net / Postgres / SQL / Ionic / Angular / React Native / Javascript
 
 - 🔭 I’m currently working on a React Native app 
 - 🌱 I’m currently learning React Native 
