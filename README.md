@@ -10,5 +10,6 @@ Skills: Angular / .Net / Postgres / SQL / Ionic / React Native / Javascript
 - 🌱 I’m currently learning React Native 
 - 📫 How to reach me: marcusoshea100@Gmail.com 
 
+Ask me about: Technology / Pottery / Wood Working 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/marcus-oshea2020/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/marcus-oshea2020/)  
