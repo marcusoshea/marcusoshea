@@ -10,5 +10,3 @@ Skills: TypeScript / .Net / Postgres / SQL / Ionic / Angular / React Native / Ja
 - 📫 How to reach me: marcusoshea100@Gmail.com 
 
 Ask me about: Technology / Pottery / Wood Working 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/marcus-oshea2020/)  
