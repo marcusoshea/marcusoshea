@@ -6,7 +6,7 @@ I have two github accounts, a personal one (this one) and another one where I us
 
 Skills: TypeScript / .Net / Postgres / SQL / Ionic / Angular / React Native / Javascript
 
-- 🔭 I’m currently working on an Angular app, which will use capacitor. 
+- 🔭 I’m currently working on a polling application for organizations to poll whether to allow new members into the organization. Tech used will be (API) Nest.JS, Postgres, (Front-End) Angular
 - 📫 How to reach me: marcusoshea100@Gmail.com 
 
 Ask me about: Technology / Pottery / Wood Working 
