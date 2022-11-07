@@ -6,7 +6,7 @@ I have two github accounts, a personal one (this one) and another one where I us
 
 Skills: TypeScript / .Net / Postgres / SQL / Ionic / Angular / React Native / Javascript
 
-- 🔭 I’m currently working on a polling application for organizations to poll whether to allow new members into the organization. Tech used will be (API) Nest.JS, Postgres, (Front-End) Angular
+- 🔭 I’m currently working on a polling application for organizations to poll whether to allow new members into the organization. Tech used is (API) Nest.JS, Postgres, (Front-End) Angular. I am serving it up using AWS, with a small server for web, a small server for API and a dedicated DB server. It is undergoing testing and will be launched 11/15/22.
 - 📫 How to reach me: marcusoshea100@Gmail.com 
 
 Ask me about: Technology / Pottery / Wood Working 
