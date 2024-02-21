@@ -1,5 +1,5 @@
 ### Hi there 👋, My Name is Marcus
-#### I am a full stack engineer who works a day job leading a mobile development team at Rocket Central. 
+#### I am a full stack engineer who works a day job leading a mobile development team at Rocket Mortgage. 
 
 I have two github accounts, a personal one (this one) and another one where I used to code for ColibriGroup until March 2021 (https://github.com/marcusosheamckissock)
 
